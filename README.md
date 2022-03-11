@@ -3,11 +3,11 @@ __Not tested in Windows and Termux__
 
 Clone the repo:
 ```
-git clone https://github.com/0xStevenson/Remote-Shell.git
+git clone https://github.com/Nashiito3/Remote-Shell--Nashiito.git
 ```
 Go to the directory:
 ```
-cd Remote-Shell
+cd Remote-Shell--Nashiito
 ```
 Run setup:
 ```
